@@ -1,0 +1,28 @@
+body {
+  background: #000;
+  overflow: hidden;
+  background: white;
+  background-size:cover;
+}
+
+.container1 {
+  border: 1px solid black;
+  position:absolute;
+  left: 25%;
+  margin-left: -200px;
+  top: 50%;
+  margin-top: -200px;
+  height: 400px;
+  width: 400px;
+}
+
+.container2 {
+   border: 1px solid black;
+  position:absolute;
+  left: 75%;
+  margin-left: -200px;
+  top: 50%;
+  margin-top: -200px;
+  height: 400px;
+  width: 400px;
+}
